@@ -394,7 +394,6 @@
   {
     "device" : "/dev/video0",
     "input" : 0,
-    "standard" : "PAL",
     "width" : 640,
     "height" : 480,
     "frameDecimation" : 2,
