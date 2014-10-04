@@ -401,7 +401,7 @@
     "priority" : 1000,
     "mode" : "2D",
     "cropLeft" : 26,
-    "cropRight" : 29,
+    "cropRight" : 30,
     "cropTop" : 16,
     "cropBottom" : 16,
     "redSignalThreshold" : 0.1,
