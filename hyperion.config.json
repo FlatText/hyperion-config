@@ -372,17 +372,6 @@
     "effect" : "Knight rider",
     "duration_ms" : 5000
   },
-
-  ///  The configuration for the frame-grabber, contains the following items:
-  ///   * width        : The width of the grabbed frames [pixels]
-  ///   * height       : The height of the grabbed frames [pixels]
-  ///   * frequency_Hz : The frequency of the frame grab [Hz]
-  "framegrabber" :
-  {
-    "width" : 64,
-    "height" : 64,
-    "frequency_Hz" : 10.0
-  },
   
   /// Configuration for the embedded V4L2 grabber
   ///  * device          : V4L2 Device to use [default="/dev/video0"]
